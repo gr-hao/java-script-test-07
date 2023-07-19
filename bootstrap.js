@@ -8,6 +8,9 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
+// c1
+// c2,3
+
 +(function(a) {
   'use strict';
   var b = '[data-dismiss="alert"]',
